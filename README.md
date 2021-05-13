@@ -10,8 +10,8 @@ We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliv
 
 ### Pinned
 
-  <a href="https://github.com/Build-Week-Potluck-Organizer/back-end">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Build-Week-Potluck-Organizer&repo=back-end" />
+  <a href="https://github.com/Patrick-G-Oliver/back-end">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-G-Oliver&repo=back-end" />
   </a>
   <a href="https://github.com/Buildweek-Secret-Family-Recipes-Michael/frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buildweek-Secret-Family-Recipes-Michael&repo=frontend" />
