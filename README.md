@@ -1,4 +1,4 @@
-## Hello 👋
+### 👋 From the city of Cleveland off Lake Erie, good morning, good evening, wherever you may be, across the nation, around the world... 
 
 I'm a fledgling, full stack web developer setting out on a journey of exploration in a world of technologies both known and soon-to-be discovered. 
 
