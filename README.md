@@ -17,7 +17,7 @@ We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliv
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buildweek-Secret-Family-Recipes-Michael&repo=frontend" />
   </a>
   <a href="https://github.com/bw-ptct-pintereach-3/FE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bw-ptct-pintereach-3&repo=FE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-G-Oliver&repo=FE" />
   </a>
 
 ⭐️ From [Patrick-G-Oliver](https://github.com/Patrick-G-Oliver)
