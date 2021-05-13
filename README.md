@@ -10,18 +10,14 @@ We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliv
 
 ### Pinned
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Buildweek-Secret-Family-Recipes-Michael&repo=frontend)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Build-Week-Potluck-Organizer&repo=back-end)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=story-squad-fe)
-
-<p align="center">
   <a href="https://github.com/Build-Week-Potluck-Organizer/back-end">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Build-Week-Potluck-Organizer&repo=back-end" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Build-Week-Potluck-Organizer&repo=back-end" />
   </a>
-<!--   <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a> -->
-</p>
+  <a href="https://github.com/Buildweek-Secret-Family-Recipes-Michael/frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buildweek-Secret-Family-Recipes-Michael&repo=frontend" />
+  </a>
+  <a href="https://github.com/bw-ptct-pintereach-3/FE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bw-ptct-pintereach-3&repo=FE" />
+  </a>
 
+⭐️ From [Patrick-G-Oliver](https://github.com/Patrick-G-Oliver)
