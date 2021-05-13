@@ -1,4 +1,4 @@
-## Hello 👋
+# Hello 👋
 
 I'm a fledgling, full stack web developer setting out on a journey of exploration in a world of technologies both known and soon-to-be discovered. 
 
