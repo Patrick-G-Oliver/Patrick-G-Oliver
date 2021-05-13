@@ -13,8 +13,8 @@ We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliv
   <a href="https://github.com/Patrick-G-Oliver/back-end">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-G-Oliver&repo=back-end" />
   </a>
-  <a href="https://github.com/Buildweek-Secret-Family-Recipes-Michael/frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buildweek-Secret-Family-Recipes-Michael&repo=frontend" />
+  <a href="https://github.com/Patrick-G-Oliver/frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-G-Oliver&repo=frontend" />
   </a>
   <a href="https://github.com/Patrick-G-Oliver/FE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-G-Oliver&repo=FE" />
