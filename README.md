@@ -8,5 +8,11 @@ I'm a fledgling, full stack web developer setting out on a journey of exploratio
 
 We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliver/), and you can contanct me at 📬 <patrickgriffitholiver@gmail.com>.
 
-![ReadMe Card](https://github.com/Build-Week-Potluck-Organizer/back-end)
+### Pinned
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Buildweek-Secret-Family-Recipes-Michael&repo=frontend)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Build-Week-Potluck-Organizer&repo=back-end)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=story-squad-fe)
 
