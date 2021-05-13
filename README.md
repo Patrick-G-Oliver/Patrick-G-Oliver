@@ -7,3 +7,6 @@ I'm a fledgling, full stack web developer setting out on a journey of exploratio
   * I'm seeking my first employment/internship opportunity in the tech industry. 
 
 We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliver/), and you can contanct me at 📬 <patrickgriffitholiver@gmail.com>.
+
+![ReadMe Card](https://github.com/Build-Week-Potluck-Organizer/back-end)
+
