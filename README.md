@@ -6,4 +6,4 @@ I'm a fledgling, full stack web developer setting out on a journey of exploratio
   * I'm working on a personal-project application that allows bread formulae to be scaled with baker's percentage math. 🍞
   * I'm seeking my first employment/internship opportunity in the tech industry. 
 
-We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliver/), and you can contanct me at 📬 [Gmail](<patrickgriffitholiver@gmail.com>).
+We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliver/), and you can contanct me at 📬 <patrickgriffitholiver@gmail.com>.
