@@ -16,3 +16,12 @@ We may cross paths on 🔗 [LinkedIn](https://www.linkedin.com/in/patrick-g-oliv
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=story-squad-fe)
 
+<p align="center">
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Build-Week-Potluck-Organizer&repo=back-end" />
+  </a>
+<!--   <a href="https://github.com/onimur/circleci-github-changelog-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  </a> -->
+</p>
+
